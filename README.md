@@ -14,11 +14,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorjansen/)](https://www.linkedin.com/in/vitorjansen/)
 
 ***
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitorJansen&theme=great-gatsby)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorJansen&theme=great-gatsby&layout=compact&langs_count=8)](https://git.io/readme-stats)
-
-<!--
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/?username=VitorJansen&theme=great-gatsby&layout=compact&langs_count=8)](https://git.io/streak-stats)
--->
